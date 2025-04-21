@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "19.0.0",
-    "react-native": "0.79.0"
+    "react-native": "0.79.0",
+    "react-native-exit-app": "^2.0.0",
+    "react-native-haptic-feedback": "^2.3.3",
+    "react-native-system-setting": "^1.7.6"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
