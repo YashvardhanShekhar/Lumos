@@ -13,6 +13,22 @@
 
 ---
 
+## 📥 Download and Install
+
+Want to try Lumos without building it? Grab the latest APK from the [Releases](https://github.com/YashvardhanShekhar/Lumos/releases/tag/v1.0.0) page.
+
+1. **Download the APK**:
+   - Visit the [Releases](https://github.com/YashvardhanShekhar/Lumos/releases) section and download `lumos-release.apk`.
+2. **Enable Unknown Sources**:
+   - On your Android device, go to **Settings > Security** and enable **Install Unknown Apps** for your browser or file manager.
+3. **Install**:
+   - Open the APK file and tap **Install**.
+4. **Launch**:
+   - Open Lumos from your app drawer and enjoy the brightness boost!
+
+**Note**: If you see installation warnings, ensure the APK is signed (see [Android Signing Guide](https://developer.android.com/studio/publish/app-signing)).
+---
+
 ## 🛠️ Built With
 
 I leaned on these awesome React Native packages to make Lumos happen:
@@ -72,9 +88,9 @@ Lumos is straightforward:
 
 ## 📸 Screenshots
 
-![Lumos Screenshot](images/img  (1).png)
-![Lumos Screenshot](images/img  (2).png)
-![Lumos Screenshot](images/img  (3).png)
+![Lumos Screenshot](images/img_1.png)
+![Lumos Screenshot](images/img_2.png)
+![Lumos Screenshot](images/img_3.png)
 
 
 ---
